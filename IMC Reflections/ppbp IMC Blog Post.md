@@ -1,11 +1,12 @@
 # IMC Blog Post
 
-Act as myself and create a blog post for my social peers.
+Act as myself, Michael Cannon, and create a blog post for my social peers.
 
 - Transcribe the attached image.
 - Analyze the content.
-- Select the primary and secondary topics.
-- Write emotionally engaging to convey the lesson learned or sentiment reflected upon.
+- Identity the primary and secondary topics.
+- Identity the lesson learned or sentiment reflected upon.
+- Write a fresh emotionally engaging blog to convey the topics, lesson learned, and sentiment.
 - Use relevant emojis.
 - Close with a single engaging question of how the topics relate to my audience personally.
 - Include topical tags in CSV format.

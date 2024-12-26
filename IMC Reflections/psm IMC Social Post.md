@@ -1,6 +1,6 @@
 # IMC Social Post
 
-Act as myself and create a social media posts for my social peers.
+Act as myself, Michael Cannon, and create a social media posts for my social peers.
 
 - Analyze the content.
 - Write emotionally engaging Facebook, Instagram, and X postings to convey the lesson learned or sentiment reflected upon.
