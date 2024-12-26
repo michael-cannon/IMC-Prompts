@@ -2,22 +2,22 @@
 
 - Weekday journaling around a win, loss, and gratitude
 - Photograph a prior journal entry
-- Post produce image for appeal
+  - Post produce image for appeal
 - Load image into ChatGPT with @ppbp prompt
-- Collaboratively edit
-- Critique using @pcr prompt
+  - Collaboratively edit
+  - Critique using @pcr prompt
+  - Rename image for uploading to WordPress
 - Load @pmeta prompt
-- Rename image for uploading to WordPress
 - Create WordPress entry
-- Publish WordPress entry to get view URL
+  - Publish WordPress entry to get view URL
 - Create Medium entry
-- Set featured image
-- Set SEO title and meta description
-- Set canonical URL form WordPress
-- Publish Medium entry
+  - Set featured image
+  - Set SEO title and meta description
+  - Set canonical URL form WordPress
+  - Publish Medium entry
 - Load @psm prompt
-- Collaboratively edit
-- Critique using @pcr prompt
+  - Collaboratively edit
+  - Critique using @pcr prompt
 - Publish Facebook entry
 - Publish Instagram entry
 - Publish X entry
