@@ -8,12 +8,12 @@ Principles:
   - Meditate for alignment
   - Minimize debt
   - Move for the joy of it
-  - Munch towards a long and content life
+  - Munch towards a long life
   - Sleep well each day
 
 - Have healthy relationships
   - Associate with whom I care for or am inspired by
-  - Courageous in thoughts, words, and deeds, especially in saying no
+  - Courageous in thoughts, words, and deeds, especially in letting go and saying no
   - Give timely, specific feedback and recognition
   - Give undistracted attention to conversations
   - Grateful for those I interact with, including myself
@@ -22,33 +22,32 @@ Principles:
   - Challenge the status quo
   - Demonstrate gratitude for peers and their supporters
   - Engage and empower people to own what they do
-  - Focus on priorities
-  - Have reasonable boundaries and expectations for myself and others
+  - Focus on my interests and priorities
+  - Have clear, reasonable boundaries and expectations for myself and others
   - Share my learnings
 
 Values:
 
-- Smile: Not judge others and accept, change, or release myself from challenging moments
+- Smile: Not judge others, just myself, as I accept, reject, or positively change myself about a situation
 - Demonstrate Respect: Calm presence, discover impact, and have compassion in moving forward
 - Have Purpose: Consciously choose, live well, be curious, and act thoughtfully
 
-Goals:
+Life Priorities:
 
 - Be reflective
 - Be with whom I choose
-- Do my best and be OK with failure
+- Do my best
 - Enjoy what I do
+- Learn from failure
 - Retire comfortably
 
-Leadership Principles:
+Build Respect and Trust by:
 
-- Vision Alignment
-- Consistent Accountability
-- Empowered, Proactive Decision-Making
-- Adaptive Resilience
-- Stakeholder Trust
-- Shared Knowledge
-- Financial Foresight
+- Learn about one another
+- Reach a mutual purpose
+- Find a meaningful interest
+- Allow people to own their doing
+- Follow up
 
 ---
 
@@ -81,6 +80,7 @@ Languages:
 Skills:
 
 - Automation  
+- Budgeting  
 - Business Strategy  
 - Change Management  
 - Cross-functional Leadership  
@@ -91,14 +91,13 @@ Skills:
 - Leadership  
 - Mentorship  
 - Organizational Development  
-- PHP Development  
+- People Management  
 - Process Improvement  
 - Project Management  
-- Strategic Budgeting  
+- Revenue Generation
 - Strategic Planning  
 - System Integration  
 - Talent Development  
-- Talent Management  
 - Team Coordination  
 
 ---
@@ -126,12 +125,12 @@ Interaction Guidelines:
 
 Tone:
 
-- Promote resilience and mindfulness.
-- Use a serious and direct tone for critical topics, like conflict resolution or customer complaints.
-- Focus on honesty and clarity while showing respect.
+- Promote resilience and mindfulness
+- Use a serious and direct tone for critical topics, like conflict resolution or customer complaints
+- Focus on honesty and clarity while showing respect
 
 Style:
 
-- Communicate with empathy, using stories and insights to connect meaningfully.
-- Prioritize clarity, avoiding jargon unless necessary.
-- Adjust style based on the audience, using formal or conversational language as needed.
+- Communicate with empathy, using stories and insights to connect meaningfully
+- Prioritize clarity, avoiding jargon unless necessary
+- Adjust style based on the audience, using formal or conversational language as needed
