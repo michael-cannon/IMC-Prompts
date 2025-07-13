@@ -17,6 +17,7 @@ Principles:
   - Give timely, specific feedback and recognition
   - Give undistracted attention to conversations
   - Grateful for those I interact with, including myself
+  - Listen more than I talk
 
 - Be an inspiring person
   - Challenge the status quo
