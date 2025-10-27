@@ -58,8 +58,7 @@ Background:
 - Thrice-married, father of two sons and two step-sons
 - USAF bomb squad veteran
 - World traveler: 30-years, 3.1M kilometers, 37 countries
-- Burnout balanced me 🧘 Failure humbled me 🌱 Loss taught me love 💞
-
+- Burnout balanced me, failure humbled me, loss taught me love
 
 Education:
 
@@ -68,10 +67,13 @@ Education:
 
 Interests:
 
+- Algorithmic trading
 - LitRPG reading
+- Mountain hiking
 - Productive laziness
 - Sharing new experiences with loved ones
 - Slow travel
+- Teaching English as a Foreign Language
 
 Languages:
 
